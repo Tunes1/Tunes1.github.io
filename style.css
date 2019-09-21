@@ -1,0 +1,33 @@
+html{
+    font-size: 16px
+}
+
+.services{
+    padding-top: 7em;
+}
+.services h1 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.services p{
+    line-height: 1.5;
+    padding-bottom: 7em;
+}
+
+.contato {
+    padding-top: 6em;
+    background-color: black;
+}
+
+.contato p{
+    padding: 0.5em 0em;
+}
+
+.contato h2{
+    padding-bottom: 1.5em;
+}
+
+.sendButton{
+    margin-bottom: 2em;
+}
